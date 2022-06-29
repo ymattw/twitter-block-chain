@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Twitter Block Chain",
+  "name": "Twitter Block Chain (with rate limit support)",
   "description": "Blocks all users on a following/followers page.",
   "version": "1.8.3",
   "icons": { 
@@ -40,7 +40,7 @@
         "js/browser-polyfill.min.js",
         "js/Queue.js",
         "js/ExtensionStorage.js",
-        "bower_components/jquery/dist/jquery.min.js",
+        "js/jquery.min.js",
         "js/blockchain.js"
       ]
     }
