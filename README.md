@@ -17,10 +17,6 @@ Firefox users can install the extension here: [Mozilla Add-ons](https://addons.m
 
 # FAQs 
 
-I'm trying to use this as an unpacked extension and it isn't working?
-
-Run `bower install` first to pull down the dependencies.
-
 How do I activate the plugin?
 
 Browse to a following/followers page on twitter and click the icon in the 
